@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EXAMENFINAL</string>
+    <string name="hint_nombre">Pais:</string>
+    <string name="hint_region">Region:</string>
+    <string name="hint_Capitan">Capitan:</string>
+    <string name="hint_Ranking">Ranking:</string>
+    <string name="hint_Mundiales_Ganados">Mundiales_Ganados:</string>
+    <string name="btn_guardar">Guardar registro:</string>
+    <string name="menu_nuevo">Nuevo Registro</string>
+    <string name="btn_iniciar_sesion">Iniciar Sesion</string>
+
+
+</resources>
